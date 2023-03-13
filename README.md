@@ -6,8 +6,8 @@ To get started with these exercises, you will need to have Python installed on y
 
 ### Exercises
 The exercises are organized by topic in separate directories. Each exercise has a description and my solution.
-1. [Strings, Lists, Math Operations, Loops, Conditionals](./Exercises/01.md)
-2. [Functions, Files, csv, dictionaries, tuples](./Exercises/02.md)
+1. [Strings, Lists, Math Operations, Loops, Conditionals](./01/01.md)
+2. [Functions, Files, csv, dictionaries, tuples](./02/02.md)
 
 ### Cheatsheets
 I've also created a [directory](./Cheatsheets) with cheatsheets that cover the theory I've learned. 
